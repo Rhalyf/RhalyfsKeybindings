@@ -2,28 +2,28 @@
   	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
     	<Category name="|c4DB8FFRhalyf's Keybindings">
       		<Action name="RK_QS_1">
-        		<Down>RK:QSSelected(1)</Down>
+        		<Down>RK.QSSelected(1)</Down>
       		</Action>
       		<Action name="RK_QS_2">
-        		<Down>RK:QSSelected(2)</Down>
+        		<Down>RK.QSSelected(2)</Down>
       		</Action>
       		<Action name="RK_QS_3">
-        		<Down>RK:QSSelected(3)</Down>
+        		<Down>RK.QSSelected(3)</Down>
       		</Action>
       		<Action name="RK_QS_4">
-        		<Down>RK:QSSelected(4)</Down>
+        		<Down>RK.QSSelected(4)</Down>
       		</Action>
       		<Action name="RK_QS_5">
-        		<Down>RK:QSSelected(5)</Down>
+        		<Down>RK.QSSelected(5)</Down>
       		</Action>
       		<Action name="RK_QS_6">
-        		<Down>RK:QSSelected(6)</Down>
+        		<Down>RK.QSSelected(6)</Down>
       		</Action>
       		<Action name="RK_QS_7">
-        		<Down>RK:QSSelected(7)</Down>
+        		<Down>RK.QSSelected(7)</Down>
       		</Action>
       		<Action name="RK_QS_8">
-        		<Down>RK:QSSelected(8)</Down>
+        		<Down>RK.QSSelected(8)</Down>
       		</Action>
     	</Category>
   	</Layer>
